@@ -1,0 +1,7 @@
+alpha= 1.5
+iteration= 1000
+trainingSetName= data/adult.data
+testSetName= data/adult.test
+importantColumn= 0,4,10,11,12
+
+
