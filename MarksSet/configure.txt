@@ -1,0 +1,6 @@
+alpha= 0.01
+iteration= 20000
+trainingSetName= marks.data
+testSetName= marks.data
+importantColumn= 0,1
+
